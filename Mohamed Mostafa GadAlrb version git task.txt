@@ -1,0 +1,31 @@
+1.Git is a version control system that tracks changes in files and coordinates work on those files among multiple people.
+
+2.False 
+
+3.git --version
+
+4.--global
+
+5.git config user.email "medogadalrb@gmail.com"
+
+6.git add --all
+
+7.git status
+
+8.git init
+
+9.False
+
+10.git commit -m "message"
+
+11.git commit -m "New email"
+
+12.git log
+
+13.A separate version of the main repository
+
+14.git branch new-email
+
+15.git checkout new-email
+
+16.git merge new-email
